@@ -1,0 +1,235 @@
+.r1{
+    border-color:#abb8c3
+}
+#i1{
+    font-size: xx-large;
+}
+#h1{
+    height: 90px;
+    background-color: white;
+
+}
+.a1{
+    text-decoration: none;
+    color: black;
+}
+.a2{
+    text-decoration: none;
+    color:hsla(0,0%,40%,.7)
+
+}
+.main{
+   background-color: whitesmoke;
+}
+.r2{
+
+   font-family:  Roboto, sans-serif;
+}
+.i2{
+    position: relative; 
+
+}
+.r3{
+    background-image: url('assests/images/whitebrick.avif');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.p1{
+    font-size: x-small;
+    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.b1{
+    font-size: x-small;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(193, 153, 93);
+    
+  }
+  .circle {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(193, 153, 93);
+    border-radius: 50%;
+  }
+  .rectangle {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(193, 153, 93);
+  }
+  .oval {
+    height: 50px;
+    width: 100px;
+    background-color: rgb(193, 153, 93);
+    border-radius: 50%;
+  }
+#u1{
+    height: 8%;
+    
+    background-color: whitesmoke;
+
+}
+#l1{
+    
+    font-size: x-small;
+    background-color: whitesmoke;
+   
+}
+
+#l2{
+font-size: small;
+background-color: whitesmoke;
+}
+.l3{
+    background-color: whitesmoke;
+}
+#b2{
+    color: white;
+    background-color: orangered;
+    border-color: orangered;
+}
+.l4{
+    background-color: whitesmoke;
+}
+.l5{
+    background-color: whitesmoke;
+}
+
+.r4{
+     border: 1px solid #eee;
+     
+     
+}
+.p2{
+    color: #7a9c59;
+    font-size: .8em;
+    font-weight: 700;
+    
+}
+.p3{
+    font-size: 12px;
+}
+.b3{
+    background-color:#1caf00;
+    color: white;
+    height: 7%;
+    font-size:large;
+    
+
+    
+}
+footer{
+    background-color: #222222;
+
+}
+.r5{
+    color:white;
+}
+.u2{
+    list-style-type: none;
+    
+}
+.u3{
+color: #222222;   
+border: none ;
+}
+#p4{
+    font-size: x-large;
+}
+.r6{
+    background-color: #1e1e1e;
+    color: #abb8c3;
+}
+.c1{
+    color:#fcb900;
+}
+.c2{
+    color: grey;
+    font-size: medium;
+}
+.c2:hover{
+    color: #fcb900;
+}
+.c3{
+  color:  #ececec;
+}
+.i2{
+font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+font-size: .9em;
+box-sizing: border-box;
+vertical-align: middle;
+fill:#abb8c3;
+height:50%;
+width: 15%;
+background-color:hsla(0,0%,100%,.1);
+}
+.i2:hover{
+   fill:white; 
+}
+.p5{
+    font-size: larger;
+ font-family:    SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.p6{
+    font-size: xx-large;
+}
+.p7{
+    font-size: large;
+    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.p8{
+    font-size: medium;
+    font-family:  SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.f1{
+    font-family: Roboto, sans-serif;
+}
+.f2{
+    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;;
+}
+#clockContainer {
+	position: relative;
+	margin: auto;
+	height: 40vw;
+	/*to make the height and width responsive*/
+	width: 40vw;
+    /*setting our background image*/
+	background-size: 100%;
+}
+
+#hour,
+#minute,
+#second {
+	position: absolute;
+	background: black;
+	border-radius: 10px;
+	transform-origin: bottom;
+}
+
+#hour {
+	width: 1.8%;
+	height: 20%;
+	top: 25%;
+	left: 48.85%;
+	opacity: 0.8;
+}
+
+#minute {
+	width: 1.6%;
+	height: 25%;
+	top: 19%;
+	left: 48.9%;
+	opacity: 0.8;
+}
+
+#second {
+	width: 1%;
+	height: 35%;
+	top: 9%;
+	left: 49.25%;
+	opacity: 0.8;
+}
